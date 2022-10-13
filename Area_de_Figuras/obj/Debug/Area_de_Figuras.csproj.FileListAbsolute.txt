@@ -1,0 +1,8 @@
+C:\Users\Raul\source\repos\Area_de_Figuras\Area_de_Figuras\bin\Debug\Area_de_Figuras.exe.config
+C:\Users\Raul\source\repos\Area_de_Figuras\Area_de_Figuras\bin\Debug\Area_de_Figuras.exe
+C:\Users\Raul\source\repos\Area_de_Figuras\Area_de_Figuras\bin\Debug\Area_de_Figuras.pdb
+C:\Users\Raul\source\repos\Area_de_Figuras\Area_de_Figuras\obj\Debug\Area_de_Figuras.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\Area_de_Figuras\Area_de_Figuras\obj\Debug\Area_de_Figuras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raul\source\repos\Area_de_Figuras\Area_de_Figuras\obj\Debug\Area_de_Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Area_de_Figuras\Area_de_Figuras\obj\Debug\Area_de_Figuras.exe
+C:\Users\Raul\source\repos\Area_de_Figuras\Area_de_Figuras\obj\Debug\Area_de_Figuras.pdb
